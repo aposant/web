@@ -1,0 +1,7 @@
+body, html {
+  height: 100%;
+  display: grid;
+}
+span { /* thing to center */
+  margin: auto;
+}
